@@ -1,0 +1,7 @@
+Interface: 110207
+Title: OneHandAccessibility
+Notes: All-in-one macros and Single-Button Assistant integration for one-handed play.
+Author: Linacre
+Version: 1.0.0
+SavedVariables: OneHandAccessibilityDB
+OneHandAccessibility.lua
